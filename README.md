@@ -1,0 +1,5 @@
+# recommender_system
+推荐系统项目DEMO
+
+在这个仓库下存放的都是自己平时练习的推荐系统相关知识的一些小demo
+
